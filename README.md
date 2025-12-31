@@ -7,6 +7,8 @@
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6t4xwbarj75ywyh2r6i7h7mph&width={width})
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=marshalthedev&icon=0&color=1)](https://visitcount.itsvg.in)
 
