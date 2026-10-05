@@ -26,5 +26,5 @@ I build web apps and interfaces, mostly with Next.js and React. I care about cle
 ## Contact
 
 - GitHub: [@MarshaltheDev](https://github.com/MarshaltheDev)
-- Email: your@email.com
-- Website: https://your-site.com
+- Email: marshalthedev@gmail.com
+- Website: https://aneion.com
