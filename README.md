@@ -19,12 +19,9 @@ I build web apps and interfaces, mostly with Next.js and React. I care about cle
 
 ## Right now
 
-- Building a chat interface with end-to-end encrypted messages
-- Experimenting with local LLMs in my workflow
+- Building a chat interface software with end-to-end encrypted messages
+- Making more open source sites
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaltheDev&show_icons=true&theme=transparent&hide_border=true)
 
 ## Contact
 
