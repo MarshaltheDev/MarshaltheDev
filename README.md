@@ -1,6 +1,6 @@
 # Hey, I'm Marshal 👋
 
-I build web apps and interfaces, mostly with Next.js and React. I care about clean design, good typography, and things that feel fast. And yes, I do use AI to assist with my development.
+I build web apps and interfaces, mostly with Next.js and React. I care about clean design, good typography, and things that feel fast. And yes, I do use llms to assist with my development.
 
 ## What I work with
 
